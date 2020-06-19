@@ -15,3 +15,8 @@ git --oneline --decorate --all --graph
 comando para saber el el archivo modificado y esten en el stage
 
 git status -s
+
+## Creando alias
+para crer un alias de este comando git --oneline --decorate --all --graph
+
+git config --global alias.lg "log --oneline --decorate --all --graph"
