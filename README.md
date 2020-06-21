@@ -20,3 +20,6 @@ git status -s
 para crer un alias de este comando git --oneline --decorate --all --graph
 
 git config --global alias.lg "log --oneline --decorate --all --graph"
+
+## Hasta ahora
+hasta ahora solo se ha visto lo basico
