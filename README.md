@@ -23,3 +23,15 @@ git config --global alias.lg "log --oneline --decorate --all --graph"
 
 ## Hasta ahora
 hasta ahora solo se ha visto lo basico
+
+## Cambios en los archivos
+para ver los cmabios de los archivos es git diff
+pero no se muestran de una manera legible
+
+## Quitar archivos del stage
+
+git reset NombreArchivo
+
+## Ahora pquitar los cmabios en un archivo
+
+git checkout -- nombreArchivo
