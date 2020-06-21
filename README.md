@@ -32,6 +32,6 @@ pero no se muestran de una manera legible
 
 git reset NombreArchivo
 
-## Ahora pquitar los cmabios en un archivo
+## Ahora quitar los cmabios en un archivo
 
 git checkout -- nombreArchivo
