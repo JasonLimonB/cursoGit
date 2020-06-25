@@ -20,3 +20,4 @@ copiamos el id para volver a ese punto
     git reset --hard id
 
 y todo vuelve al punto donde hicimos el primer hard
+
