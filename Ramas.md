@@ -29,3 +29,6 @@ Para crear una rama y movernos a esa rama en automatico
     git checkout -b nombreRama
 
 ¿Qué es un fast forward?
+
+    Es cuando tenemos un cambio en en este caso la rama master y un cambio en otras ramas pero estos cambios no afectan una rama de la otra
+    para eso git hace un fast forward y se hace como un merge.
