@@ -23,3 +23,4 @@ Ahora par aunir una rama a la master(debemos estar en la master)
 Para borrar una rama
 
     git branch -d nombreRama
+..
