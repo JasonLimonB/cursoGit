@@ -12,6 +12,18 @@ Para movernos a la rama que creamos
 
     git checkout nombreRama
 
+Comando para ver diferencia en una rama de otra
+
+    git diff nombreRama nombreRamaMaster
+
+Ahora par aunir una rama a la master(debemos estar en la master)
+
+    git merge nombreRama
+
+Para borrar una rama
+
+    git branch -d nombreRama
+
 Para crear una rama y movernos a esa rama en automatico
 
     git checkout -b nombreRama
