@@ -28,4 +28,4 @@ Para crear una rama y movernos a esa rama en automatico
 
     git checkout -b nombreRama
 
-..
+¿Qué es un fast forward?
