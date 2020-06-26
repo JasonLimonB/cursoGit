@@ -11,3 +11,7 @@ Para ver las ramas que tenemos y en la que estamos posicionados
 Para movernos a la rama que creamos
 
     git checkout nombreRama
+
+Para crear una rama y movernos a esa rama en automatico
+
+    git checkout -b nombreRama
