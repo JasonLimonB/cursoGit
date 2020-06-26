@@ -27,3 +27,5 @@ Para borrar una rama
 Para crear una rama y movernos a esa rama en automatico
 
     git checkout -b nombreRama
+
+..
