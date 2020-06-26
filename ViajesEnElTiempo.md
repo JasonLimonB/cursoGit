@@ -21,3 +21,4 @@ copiamos el id para volver a ese punto
 
 y todo vuelve al punto donde hicimos el primer hard
 
+solo e sparte del curso
