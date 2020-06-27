@@ -20,3 +20,13 @@ entonces aqui vamos a tomar los dos commits del del master esten primero que los
 |
 
 (Cambios para el rebase 4)
+
+## Rebase Squash
+
+Este comando es para unir dos commits.
+
+el comando es: 
+
+    git rebase -i HEAD~4
+    
+"El 4 es de los ultimos 4 commits, estopuede variar"
