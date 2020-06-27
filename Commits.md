@@ -17,3 +17,6 @@ Revertimos el commit
     git reset --soft HEAD^
 
 y ahora solo queda hacer un commit como cualquier otro
+
+
+(Cambio para el rebase 3)
