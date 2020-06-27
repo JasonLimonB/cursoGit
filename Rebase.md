@@ -28,5 +28,10 @@ Este comando es para unir dos commits.
 el comando es: 
 
     git rebase -i HEAD~4
-    
-"El 4 es de los ultimos 4 commits, estopuede variar"
+
+"El 4 es de los ultimos 4 commits, esto puede variar"
+
+al hacer ese comando nos parece una pantalla en el editor de la consola en el cual nos da un par de opciones con los 4 ultimos commits realizados asi que  al que queremos hacerle
+el squash vamos a pornerle una letra s para que lo una conel commit seguido de la parte de arriba
+
+    p "este es un commit"
