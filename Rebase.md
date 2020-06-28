@@ -39,3 +39,5 @@ el squash vamos a pornerle una letra s para que lo una conel commit seguido de l
 
 Cambio 1 para un segundo intento
 Cambio 2 para un segundo intento
+
+CAmbio para un rebase pero para cambiar el nombre de un commit
