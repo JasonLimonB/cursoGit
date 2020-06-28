@@ -37,3 +37,5 @@ git reset NombreArchivo
 git checkout -- nombreArchivo
 
 solo es curso de git
+
+poco a poco vamos entendiendo
