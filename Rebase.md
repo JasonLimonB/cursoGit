@@ -35,3 +35,6 @@ al hacer ese comando nos parece una pantalla en el editor de la consola en el cu
 el squash vamos a pornerle una letra s para que lo una conel commit seguido de la parte de arriba
 
     p "este es un commit"
+    s "otro commit"
+
+Entonces el commit se unira donde estal s y arriba la p para (la s significa Squash esto se ve en la pantalla que da git)
