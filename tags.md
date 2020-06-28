@@ -72,3 +72,4 @@ Para agregar un comentario al hacer un stash
 Tener cuidado con este comando porque no pregunta y simplemente borra las entrdas del stash
 
 un pequeño cambio
+otro mas pequeño
