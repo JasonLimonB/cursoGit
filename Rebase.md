@@ -38,3 +38,4 @@ el squash vamos a pornerle una letra s para que lo una conel commit seguido de l
     s "otro commit"
 
 Cambio 1 para un segundo intento
+Cambio 2 para un segundo intento
