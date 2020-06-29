@@ -34,8 +34,12 @@ git reset NombreArchivo
 
 ## Ahora quitar los cmabios en un archivo
 
+
 git checkout -- nombreArchivo
 
 solo es curso de git
 
 poco a poco vamos entendiendo
+
+
+Cambios desde github :D
